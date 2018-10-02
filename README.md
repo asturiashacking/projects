@@ -18,7 +18,7 @@
 
 En este repositorio se podrán proponer, mediante issues, posibles proyectos que se puedan desarrollar en la comunidad AsturiasHacking dentro de la línea de mentoring.
 
-Las propuestas estarán abiertas al debate y a la inserción de propuestas de mejora o divergencia por parte de otros miembros de la comunidad. 
+Las propuestas estarán abiertas a debate por parte de otros miembros de la comunidad, los cuales podrán aportar opiniones que ayuden a mejorarla, validarla o plantear nuevas direcciones para la misma.
 
 ## Código de conducta
 
