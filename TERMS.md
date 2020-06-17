@@ -17,4 +17,4 @@ Con el objetivo de crear una comunidad lo más inclusiva posible y limitar al m�
 
 Incumplir cualquiera de los puntos anteriores puede llevar consigo la anulación de la participación en el proyecto por parte de la organización o el cese del mismo durante su propio transcurso.
 
-[code of conduct]: https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md
+[code of conduct]: https://github.com/asturiashacking/core/blob/main/coc/CODE_OF_CONDUCT.md
