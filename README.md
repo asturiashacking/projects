@@ -22,7 +22,7 @@ Las propuestas estarán abiertas a debate por parte de otros miembros de la comu
 
 ## Código de conducta
 
-La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
+La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/main/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
 
 ## Términos y condiciones
 
